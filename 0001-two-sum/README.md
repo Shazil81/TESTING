@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/two-sum/description/">0001 TWO SUM</a></h2><h3>Difficulty: Easy</h3><hr><p>You are given an array of integers `nums`&nbsp;and an integer `target`, return <em>indices of the two numbers such that they add up to `target`</em>.</p>
+<h2><a href="https://leetcode.com/problems/two-sum/submissions/2139356627/">0001 TWO SUM</a></h2><h3>Difficulty: Easy</h3><hr><p>You are given an array of integers `nums`&nbsp;and an integer `target`, return <em>indices of the two numbers such that they add up to `target`</em>.</p>
 
 <p>You may assume that each input would have <b><em>exactly</em> one solution</b>, and you may not use the <em>same</em> element twice.</p>
 
