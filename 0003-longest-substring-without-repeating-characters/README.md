@@ -1,6 +1,6 @@
 # 3. Longest Substring Without Repeating Characters
 
-[Open problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2142440080/)
+[Open problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 ---
 
