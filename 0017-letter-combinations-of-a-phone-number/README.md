@@ -1,6 +1,6 @@
 # 17. Letter Combinations of a Phone Number
 
-[Open problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/2143548287/)
+[Open problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 
 ---
 
