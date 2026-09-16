@@ -1,6 +1,6 @@
 # 7. Reverse Integer
 
-[Open problem](https://leetcode.com/problems/reverse-integer/)
+[Open problem](https://leetcode.com/problems/reverse-integer/submissions/2143641730/)
 
 ---
 
