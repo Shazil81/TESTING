@@ -1,6 +1,6 @@
 # 713. Subarray Product Less Than K
 
-[Open problem](https://leetcode.com/problems/subarray-product-less-than-k/submissions/2145048785/)
+[Open problem](https://leetcode.com/problems/subarray-product-less-than-k/description/)
 
 ---
 
