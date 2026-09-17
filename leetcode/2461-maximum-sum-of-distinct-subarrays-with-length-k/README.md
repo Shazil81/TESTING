@@ -1,6 +1,6 @@
 # 2461. Maximum Sum of Distinct Subarrays With Length K
 
-[Open problem](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+[Open problem](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/submissions/2145040118/)
 
 ---
 
